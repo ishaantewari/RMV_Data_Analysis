@@ -5,4 +5,4 @@ Contained in this repo are a few of the files that we have used to narrow down t
 
 Also, a pre-emptive apology for how messy the code is. We pretty much only need to execute each file once to produce a new .json file with concentrated data, so we haven't been worrying about how pretty the code looks :(
 
-All code is the result of a collaborative effort between myself, Anahitha, Andrea, and Mr. Boxer. (I had to upload these files manually into the repo, so their commits are not logged here).
+All code is the result of a collaborative effort between myself, Anahitha, Andrea, and Mr. Boxer. 
