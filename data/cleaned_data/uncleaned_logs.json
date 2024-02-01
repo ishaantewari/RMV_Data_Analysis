@@ -1,0 +1,38 @@
+[
+    {
+        "number": 56,
+        "year": "2016",
+        "month": "May",
+        "day": "24/25 ",
+        "officer": "Sandrine Ribeiro",
+        "agency": "Comm. Of Probation",
+        "office": "",
+        "location": "State",
+        "reqMethod": "E-mail",
+        "reqNum": 1,
+        "reqMatch": 1,
+        "photoAry": "",
+        "other": "",
+        "notes": "\n",
+        "lastName": "ribeiro",
+        "reasonWhyUncleaned": "date error"
+    },
+    {
+        "number": 116,
+        "year": "2017",
+        "month": "June",
+        "day": "(\u2026)",
+        "officer": "(\u2026)",
+        "agency": "Weymouth PD",
+        "office": "",
+        "location": "Local",
+        "reqMethod": "E-mail",
+        "reqNum": "(\u2026)",
+        "reqMatch": 0,
+        "photoAry": "",
+        "other": "",
+        "notes": "\n",
+        "lastName": "(\u2026)",
+        "reasonWhyUncleaned": "date error, reqNum err"
+    }
+]

@@ -20,7 +20,14 @@ def write_file(object, file):
    with open(file, "w") as outfile:
       outfile.write(json_object)
 
-
+def is_empty(content):
+    if content == None:
+        return True
+    condensed_string = content.replace(" ", "").replace("\n", "")
+    if condensed_string == " " or condensed_string == "":
+        return True
+    else:
+        return False
 
 # find date slightly more easily
 
@@ -78,14 +85,7 @@ def binary_search(arr, low, high, x, name):
         # Element is not present in the array
         return -1
     
-def is_empty(content):
-    if content == None:
-        return True
-    condensed_string = content.replace(" ", "").replace("\n", "")
-    if condensed_string == " " or condensed_string == "":
-        return True
-    else:
-        return False
+
  
  
 
