@@ -20,7 +20,7 @@ All code is the result of a collaborative effort between myself, Anahitha, Andre
 |   ├── source_extract  - computer readable data extracted from docs
 |   └── docs_source     - original pdf & csv sources from MA RMV 
 |
-└── explorations        - scripts that are not yet finished (and may never be :D)
+└── explorations        - scripts that are not yet finished (and may never be :D); where the bulk of our code currently lies
     ├── current
     ├── old
     └── paused
